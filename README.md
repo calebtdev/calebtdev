@@ -1,4 +1,4 @@
-# Hey there! 👋🏾
+**Hey there!** 👋🏾
 
 I'm Caleb, a frontend-focused software engineer based in Canada.
 
