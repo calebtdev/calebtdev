@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋🏾
 
-<!--
-**calebtdev/calebtdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Caleb, a frontend-focused software engineer based in Canada.
 
-Here are some ideas to get you started:
+I build modern web applications and I'm passionate about frontend performance, scalable UI architecture, and production reliability. I also enjoy debugging distributed systems, optimizing application performance, and creating smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes React, Next.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion.
+
+## 📌 Featured Projects
+- **Brandwave** — Reusable UI component library with secure backend APIs
+- **Transita** — Geolocation-based booking platform with interactive map workflows
+- **Tasman** — Real-time task management and collaboration platform
+- **The Piggy** — Savings tracker with financial planning features
+
+## ⚡ Fun Facts
+- I have two cats 🐈
+- I enjoy both coffee and tea ☕
+- Demon Slayer is my favorite anime
+- I enjoy going to the gym, solving problems, and building things
